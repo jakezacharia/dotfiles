@@ -1,0 +1,30 @@
+# Oscura Dusk Colors
+background = #131419
+foreground = #e6e6e6
+selection-background = #3d5aa1
+selection-foreground = #e6e6e6
+cursor-color = #e6e7a3
+# black
+palette = 0=#323337
+palette = 8=#46474f
+# red
+palette = 1=#ff5c5c
+palette = 9=#d84f68
+# green
+palette = 2=#54c0a3
+palette = 10=#54c0a3
+# yellow
+palette = 3=#e6e7a3
+palette = 11=#f9b98c
+# blue
+palette = 4=#479ffa
+palette = 12=#3d5aa1
+# magenta
+palette = 5=#e6e7a3
+palette = 13=#e6e7a3
+# cyan
+palette = 6=#54c0a3
+palette = 14=#54c0a3
+# white
+palette = 7=#c8c8c8
+palette = 15=#e6e6e6
